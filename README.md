@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 <br>
 
 ### 📚 Studying 📚
-<div>
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-</div>
+![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)\
+<br>
 
 ### 🛠 Tools 🛠
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -48,6 +47,7 @@ Here are some ideas to get you started:
 <br>
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
 <div> 
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
@@ -68,6 +68,4 @@ Here are some ideas to get you started:
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Jaei&layout=compact)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/______)
 <br>
