@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 김재이입니다!
+<br>
 
 <!--내용 부분-->
 ### ✨ Tech Stack ✨
@@ -50,6 +51,7 @@ Here are some ideas to get you started:
 <br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+<br>
 
 ### 📫 Contact 📫
 <div>
