@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Contact 📫
-[![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/ksy980417@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksy980417@gmail.com)
 
 ---
